@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title":"Aliens",
+        "director":"Jamos Cameron",
+        "year":"1986",
+        "rating":"8.5"
+    },
+    {
+        "id": "2",
+        "title":"El Señor de los Anillos",
+        "director":"Nolan",
+        "year":"2006",
+        "rating":"10"
+    }
+]
+
